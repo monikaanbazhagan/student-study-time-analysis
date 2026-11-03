@@ -1,0 +1,2 @@
+Packaging note: Analysis executed successfully during packaging.
+The dataset is synthetic and the project clearly labels it as such.
